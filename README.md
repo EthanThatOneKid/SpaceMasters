@@ -1,10 +1,13 @@
-# 🌌 SpaceMasters
-> SpaceMasters is a righteous turn-based interstellar game that I made in Qbasic when I was 12
+# SpaceMasters 🌌
 
-## 💾 How to play?
+> SpaceMasters is a righteous turn-based interstellar game that I wrote in QuickBasic.
+
+## How to play? 💾
+
 If you would like to play this game, download the .zip of this repository and run the executable. Have fun!
 
-## ❓ What's this?
+## What's this ❓
+
 This game is a text-based game with ascii graphics created using the language Qbasic in the QB64 IDE. I believe I made this game when I was around 12 years old. I recall sitting on a stool in my living room facing the guest computer (the computer that I did all my programming on) spending countless hours and many weeks or months creating this game and many others. I learned Qbasic from my uncle and I was so intrigued that I began programming all the time and haven't stopped since.
 
 This is one of my first fully fledged games that I created of which I still have the original source code for. I remember that my first game was actually another Qbasic game titled "Tower Trials," but I only have binary files of it. I can't find the source code of it unfortunately 😔.
@@ -13,4 +16,4 @@ This game comes complete with saving functionality so that's pretty cool. Also, 
 
 ----
 
-Programmed with 💖 by EthanThatOneKid 2013-beyond
+Programmed with 💖 by EthanThatOneKid
